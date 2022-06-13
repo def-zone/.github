@@ -1,2 +1,2 @@
-# .github
-✨special ✨ repository
+# Welcome to the DefZone GitHub organization!
+✨special ✨
